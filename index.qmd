@@ -4,9 +4,6 @@ author: Ramit Guha
 editor: visual
 ---
 
-# Course Lessons
-
-**Brief Description:**\
-This website showcases my work and assignments for the SFSU Data Science course, including lessons, projects, and analyses using R and Quarto.
+# Hello World!
 
 ## 
