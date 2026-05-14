@@ -1,9 +1,11 @@
 ---
-title: "index.qmd"
+title: "My BIOL 806 Portfolio"
 author: Ramit Guha
 editor: visual
+format: html
 ---
 
-# Hello World!
+## Course Lessons
 
-## 
+-   [Tidy Data](a02.html)
+-   [Cleaning and Wrangling Data](a03.html)
